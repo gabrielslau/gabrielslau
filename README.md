@@ -1,10 +1,10 @@
 # <img src="https://gabriellau.dev/statics/icons/icon-128x128.png" width="24"> Gabriel Lau
 
 [![Website](https://img.shields.io/badge/-Website-027be3?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://gabriellau.dev)](https://gabriellau.dev)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/okatsuralau)](https://github.com/okatsuralau)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielslau)](https://github.com/okatsuralau)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielslau/)](https://www.linkedin.com/in/gabrielslau/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/gabrielslau/)](https://twitter.com/gabrielslau/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielslau@gmail.com)](mailto:gabrielslau@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielslau@gmail.com)](mailto:contato@gabriellau.dev)
 [![Download CV Profile](https://img.shields.io/badge/Download-CV%20Profile-blue)](https://drive.google.com/file/d/1OPbXnR5V4mLMM6T-_Tzq-KAewNiKeJkW/view?usp=sharing)
 [![Solicitar Orçamento](https://img.shields.io/badge/Solicitar%20Or%C3%A7amento-027be3)](https://gabriellau.typeform.com/to/P7wXMM)
 
